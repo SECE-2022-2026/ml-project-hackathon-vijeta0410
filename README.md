@@ -82,9 +82,12 @@ How It Works
 
 Screenshots
 -----------
-![Screenshot 2024-11-22 224042](https://github.com/user-attachments/assets/e1e1678c-90c6-4da6-bcfb-5d253acda12c)
+![Screenshot 2024-11-23 103009](https://github.com/user-attachments/assets/479fdf0f-c31a-4ee3-93e6-c50b8ac8f380)
+
 ![Screenshot 2024-11-22 224042](https://github.com/user-attachments/assets/8790ec89-8bbc-4882-b35b-57a72bc7e50e)
+
 ![Screenshot 2024-11-22 224042](https://github.com/user-attachments/assets/53eb6117-189d-49c4-9f70-7ce6fd1494ce)
+
 ![Screenshot 2024-11-23 101819](https://github.com/user-attachments/assets/e4be5056-26c6-44c8-838c-1db319a49a44)
 
 
