@@ -84,7 +84,7 @@ Screenshots
 -----------
 ![Screenshot 2024-11-23 103009](https://github.com/user-attachments/assets/479fdf0f-c31a-4ee3-93e6-c50b8ac8f380)
 
-![Screenshot 2024-11-22 224042](https://github.com/user-attachments/assets/8790ec89-8bbc-4882-b35b-57a72bc7e50e)
+![Screenshot 2024-11-23 101210](https://github.com/user-attachments/assets/12b7c769-03c8-4a71-824e-e116053b7685)
 
 ![Screenshot 2024-11-22 224042](https://github.com/user-attachments/assets/53eb6117-189d-49c4-9f70-7ce6fd1494ce)
 
